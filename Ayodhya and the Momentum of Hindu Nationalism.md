@@ -1,0 +1,12 @@
+# Ayodhya and the Momentum of Hindu Nationalism
+## Chapter 17
+The [[Destruction of the Babri Mosque]] is the defining moment of modern Hindu nationalism. A [[Mughal Empire]] mosque was torn down in order for a temple to [[Rama]] to be built on his place of birth. Activists claimed that the Babri Mosque was built via the destruction of a [[Temples in Hinduism|Hindu Temple]], but this is uncertain. After the dissolution of the [[British Raj]], Hindus found an image of Rama, something they took as a miraculous sign. The mosque was closed to worship in the face of unrest, but was reopened in 1986 by a group that has ties with the [[Bharatiya Janata Party]]. The BJP is the [[Hindutva]] counter to the [[Indian National Congress]], a secular, socialist, supposedly corrupt party (see the difference between the [[Adalet ve Kalkınma Partisi]] and [[Cumhuriyet Halk Partisi]], with the former embracing light Islamism versus secularism). Metaphorically, Rama was to rule India again, but his place of birth was "defiled" by the mosque. Performances were arranged to sanctify a possible temple on the grounds of the mosque. Some activists were killed during protests, becoming martyrs. 
+On a planned day of vigilante demolition, the government did nothing and the mosque was reduced to rubble. The rubble was immediately cleared and hidden by the BJP, a sign of the new, sleek Hindutva they wished to create. There is a pillar that still stands that was said to be part of the original Hindu temple, but it could have as easily been a [[Jainism|Jain]] relic. Some said that the destruction was the work of [[Hanuman]], the monkey deity that followed [[Rama]]. Some officers at the site of the destruction gave advice on how to destroy the mosque to the youth. The battle was also against secularists who were aghast at the destruction. A tomb of a Muslim saint was also destroyed. The Babri Mosque was a place where Hindus and Muslims prayed together, a site of religious tolerance bulldozed by Hindu nationalism. The mosque of Rama that motivated the talk of miracle was eventually found out to be placed by a Hindu ascetic.
+At the time of this writing, the BJP was still a minority party in Northern India.
+
+### Full Citation:
+Hawley, John Stratton, _The Life of Hinduism_, 1e, 2006, Ch 17 257-265
+Tags: #culture/asia/india #religion/hinduism #religion/islam #nationalism #source
+Dates Read: 8-3-2023
+Date Created: 8-3-2023
+Status: #status/unrefined 

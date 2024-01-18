@@ -1,0 +1,12 @@
+{
+  "newFileLocation": "current",
+  "spellcheck": true,
+  "promptDelete": false,
+  "spellcheckDictionary": [
+    "Guomindang"
+  ],
+  "alwaysUpdateLinks": true,
+  "legacyEditor": false,
+  "livePreview": false,
+  "spellcheckLanguages": null
+}

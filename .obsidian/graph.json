@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#culture/asia/india OR tag:#culture/asia/india",
+      "color": {
+        "a": 1,
+        "rgb": 15756308
+      }
+    },
+    {
+      "query": "tag:#philosophy OR tag:#religion",
+      "color": {
+        "a": 1,
+        "rgb": 14907109
+      }
+    },
+    {
+      "query": "tag:#history/asia/china OR tag:#culture/asia/china OR tag:#asia/china",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#literature",
+      "color": {
+        "a": 1,
+        "rgb": 7844608
+      }
+    },
+    {
+      "query": "tag:#culture/america/cuba OR tag:#history/america/cuba",
+      "color": {
+        "a": 1,
+        "rgb": 10428833
+      }
+    },
+    {
+      "query": "tag:#history/asia/southeast",
+      "color": {
+        "a": 1,
+        "rgb": 14727762
+      }
+    },
+    {
+      "query": "tag:#research-area",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.4,
+  "nodeSizeMultiplier": 1.7709661336847,
+  "lineSizeMultiplier": 1.94964922901606,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 12.518072718208,
+  "linkStrength": 1,
+  "linkDistance": 378,
+  "scale": 0.5129460701488873,
+  "close": false
+}

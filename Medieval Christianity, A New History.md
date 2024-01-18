@@ -1,0 +1,12 @@
+# Medieval Christianity, A New History
+## Early Christianity
+### Pivotal Moments in Early Christianity
+#### Gnosticism
+The traditional view of Orthodox Christianity predating heretical forms has been largely debunked, especially with regards to [[Mediterranean]] Christianity. [[Catholicism]] was far from inevitable, and faced similar questions and challenges to other forms of early doctrinal worship. It formed institutions to reinforce its correctness among a sea of other institutions.
+[[Gnosticism]] has persistently been a crucial intellectual rival to Orthodox Christian practice. However, a large portion of texts on Gnostic belief originate from those opposing it. While some Gnostic texts have been found, many have been destroyed by other Christian groups. Gnostics saw themselves as authentic Christians, not as an alien group. Gnosticism views materiality as undesirable, and focuses on the nature of evil and knowledge as tools to escape the material world. Gnosis, knowing, allowed a select few to ascend from our world. Salvation was not from sin, but rather ignorance. A common belief was that our world was a fallen, condemned world from some heavenly realm. Gnostics were opposed to Orthodox Christianity and [[Judaism]] in thinking that God created a good world, in fact a minor deity created an evil, impure world in which we inhabit. Many read Eve as an embodiment of wisdom who alerted Adam to truth. Texts have been influenced by heterodox Judaism, not only the [[Bible]].  [[Alexandria]] was a center for Gnosticism, a city with a rich Jewish life as well. One could not gain knowledge via study, rather it was revealed. Gnostics believed that the meaning of Christian texts was inherently obscure and not to be taken at face value. A person is a spirit trapped in flesh. [[Jesus]] thus appeared in human flesh, but was not embodied: he only seemed to be human. Possibly a spirit inhabited a fully human Jesus. Non-Gnostics believed that, had Jesus not been human, he could not have delivered humanity from sin. Gnostics believed that Jesus only appeared to suffer on the cross: his soul had left before the Crucifixion. 
+
+### Full Citation:
+Tags: #history/europe #time/medieval-era #religion/christianity  #source
+Dates Read:
+Date Created: 27-7-2023
+Status: #status/draft

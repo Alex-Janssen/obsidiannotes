@@ -1,0 +1,10 @@
+# China and Globalization, 1895-2015
+Isolationism is becoming trendy around the world, and thus is part of the political globalization. An American idea of one-man-fix-all, embodied by [[Donald Trump]], is a very Chinese concept. The speaker uses imperfect analogies to break stereotypes of political Chinese culture, i.e. viewing [[Tibet]] as China's [[Hawaii]] in the [[Han Chinese]] viewpoint. China's rise is similar to early 1900s America's, with it's rise also mirroring the 1980's fear of [[Japan]] and its rise. China's personal freedoms have grown while the political structure has remained mostly constant (lecture from 2016). There are parts of Chinese culture which are replicating Western forms with substantial differences in substance. Globalization is not American, "Friedman flattening," does not work as a unidirectional flow. Others view that China cannot be integrated into a Western world order or will dominate the global political landscape, "China Wars" and "Death by China" are wrong ways to think of China and are emblematic of hyperbole. Convergence of dress did not occur in the [[Qing Dynasty]] while Japanese wore Western suits, and thus was not recognizable as an equal nation. During the reconciliation of[[Deng Xiaoping]], there was widespread fear of Japan, another example of the seesaw of Japan-China fear. The [[Fall of the Berlin Wall]] may have extended the life of the [[Chinese Communist Party]] via a realisation that some freedoms needed to be opened up to distract from the lack of fundamental political freedoms.
+
+### Full Citation:
+Jeffrey Wasserstrom, “China and Globalization: 1895 – 2015,” lecture at China NOW I Teachers Workshop, 1990 Institute, September 2, 2016
+
+Tags:  #politics/china #time/modern-era/1900s #source
+Dates Read: 10-1-2024
+Date Created: 10-1-2024
+Status: #status/unrefined 

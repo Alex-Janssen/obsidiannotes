@@ -1,0 +1,21 @@
+# Hu Yaobang
+
+## Early Work under Mao
+Hu Yaobang's first intersection with [[Deng Xiaoping]] came when he was called to lead the consolidation of the Chinese Academy for Sciences in 1975. He was sent in to assist Deng and [[Hua Guofeng]] in advancing the Four Modernizations and to end the effect of the [[Cultural Revolution]] on China's sciences. He opened up researchers to foreign publications and allowed formerly banished CAS members to resume work. He did such work, and work to return to earlier conditions, under [[Mao Zedong]], and thus needed to balance reform with political correctness. Deng emphasized China's technological backwardness to Hu, as one of Deng's primary passions was science policy.
+Upon Deng's reform of Tsinghua University, which was too far for Mao, the Politburo criticized Hu and Deng's allies in these reform efforts. Deng subtly protected Hu and others during the criticisms, but it was clear that both of their relative positions were weakening. Hu was eventually removed from office.
+## Under Hua
+Hu, alongside Deng, Wan Li, and others, were excluded from formally giving respects in Mao's funeral. Hu Yaobang, under Hua, was the vice president of the Central Party School and was very open to new ideas and created _Theoretical Trends_, under which "Practice is the Sole Criterion of Truth" would be published. The journal was not subject to Wang Dongxing's censorship, and Deng eventually openly supported "Practice" early.
+## During Deng's Rise
+Hu Yaobang took propaganda responsibilities at the Third Plenum, and was angry at his circumnavigation by _Beijing Daily_ in declaring support for the Tiananmen mourning of [[Zhou Enlai]]. Hu also spoke against the commune agricultural system in the Central Party Work Conference, and he was added to the Politburo as well. Hu helped Deng prepare his speech at the Third Plenum where he outlined his ideology.
+He and [[Marshal Ye]] both supported the nascent Democracy Wall Movement while it helped undermine the "Two Whatevers." Hu publicly walked back this position, but apparently privately believed in granting more freedom of thought. 
+Hu Yaobang convened the Conference on Theoretical Principles to review propaganda work and ideological bases in the wake of "Practice" becoming the defining ideology of the party. In the conference, he balanced pleasing both Deng and Hua and appointed liberal thinkers. Party members were very receptive to such open discussion about ideology. Some thought that this conference was too anti-Mao, and Hu urged caution in criticism. Hu Yaobang also backed Deng's Four Cardinal Principles, to not challenge the socialist path, dictatorship of the proletariat, CPC leadership, and [[Marxism-Leninism]] with Mao Zedong Thought. He, again, privately wished for more openness in discussion and society in general, but did not express these views. 
+## Formal Power
+Hu Yaobang was tapped by Deng upon his formal rise in the Fifth Plenum to lead party affairs and become general secretary. He, alongside Zhao Ziyang (for government) dealt with most day-to-day issues in Deng's rule. Hu was at the center for reevaluating party history alongside Hu Qiaomu and Deng Liqun, who were more conservative voices. As this report was being compiled while Deng gained more power, the report became progressively more able to critique [[Mao's Legacy]]. Deng had to reign in the team, and made sure that, while some critique of Mao's legacy was tolerable (especially with regard to the Great Leap Forward and Cultural Revolution), that Mao's thoughts were overall praised. With public input, a comprise document was released. Hu took part in criticism of Hua. While praising him for dealing with the Gang of Four, Hu criticized Hua for his continuation of Maoist emphasis on class warfare and the Two Whatevers, for not reinstating leaders such as Deng early enough, that he and Deng were overzealous in trying to improve the economy, and that Hua was too hasty in publishing his volume of Mao's Selected Works. Hu shortly after replaced Hua as chairman of the party. Compared to Deng, Hu was considered far more personable among party members. 
+
+
+## References:
+[[Deng Xiaoping and the Transformation of China]]
+
+Tags: #asia/china #history/asia/china #politics/china #science #communism #time/modern-era/1900s
+1-11-2022
+Status: #status/draft

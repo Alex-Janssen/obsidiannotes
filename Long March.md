@@ -1,0 +1,9 @@
+# Long March
+On October 16, 1934, 86,000 soldiers and [[Chinese Communist Party]] officials began a retreat from Yudu in [[Jiangxi]] Province to the West after a series of five brutal attacks by nationalist forces leaving the [[Red Army (China)]] nearly in ruin.  This retreat was famed due to it crossing over harsh mountainous campaign with minimal supplies all the while facing [[Guomindang]] attacks.  After a few battles, the Guangdong head of the Guomindang allowed the Red Army to pass, hoping to weaken [[Chiang Kai-Shek]].  The Communists lost 40,000 during the slow crossing of the Xiang River, leaving a force of 30,000.  Zunyi, [[Guizhou]] Province, became their temporary base of affairs.  [[Mao Zedong]]'s position in the [[Politburo]] was restored due to his military resolutions in Zunyi, and he adopted a more mobile form of war.  Using unpredictable movement across rivers, the Red Army successfully broke Chiang Kai-Shek's encirclement, eventually reuniting with the Fourth Army.  The Fourth Front had 45,000 soldiers, while the First dwindled to less than 10,000.  After disagreements with how to proceed, these two armies then split again.  Finally, the three fronts united in October 1936.  This event has become a crucial part of the mythology of the [[Chinese Civil War]], and featured heavily in contemporary Communist propaganda.
+
+## References:
+Pong, David and Li, Danke K., "Encyclopedia of Modern China" (2009). _History Faculty Book Gallery_. 53. (1140-1142)
+
+Tags: #history/asia/china #time/modern-era/1900s #politics/china #economics/development #military #asia/china 
+20-12-2021
+Status: #status/unrefined

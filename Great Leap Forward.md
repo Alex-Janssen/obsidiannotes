@@ -1,0 +1,13 @@
+# Great Leap Forward
+The Great Leap Forward was an economic plan formulated by [[Mao Zedong]] as a response to Soviet-style central planning in agriculture and industrial growth embodied by the [[First Five Year Plan]]. The First Five Year Plan, while successfully fomenting industrial growth, did not create enough new jobs for Chinese workers (instead, industry was supported using Soviet funds and technology) or address agricultural output.  Instead, Mao saw this as creating an inefficient bureaucratic class.  After the [[Anti-Rightist Campaign]], the atmosphere of China allowed for radical change in its economic system.  Thus, The Great Leap Forward surpassed the Second Five Year Plan as China's key plan to support economic development.
+In 1957, the plan was first put into place.  With massive investment in the agricultural sector, so called "rural people's communes" were formed as the agricultural base unit, with about 1,800 households each on average, with production brigades corresponding roughly to villages and production teams to neighborhoods.  Coordination between communes was not aided by the government; instead these units acted in a nearly completely decentralized way.  This was meant to erase barriers and bring equality to every worker, with "revolutionary committees" of workers leading these communes and planners, administrators, and intellectuals being condemned as "bourgeois experts"
+In 1958, the plan to produce iron and steel in backyard furnaces was launched.  This characterized the return to simpler, indigenous technologies emblematic of the Great Leap Forward.  Predictably, these plans drastically decreased the quality of output, and so the marked increase in iron production was often caused by converting high-quality iron tools and materials into mass-produced, practically useless metals.  Government ministers criticizing the plan were purged by Mao.
+Between 1959 and 1961, there was famine due to decreased agricultural output.  Even in 1958, which saw an excellent grain harvest, the bounty was unevenly distributed across the country.  Between 15 and 30 million people died as a result of the ensuing famine.
+After the program, family farming was permitted again in some circumstances and rural markets sprung back, even if remnants of the communes remained.  Smaller, paid "teams" of workers then became the basic unit of rural production, skipping the upward distribution of wealth.
+
+## References:
+Pong, David and Li, Danke K., "Encyclopedia of Modern China" (2009). _History Faculty Book Gallery_. 53. (1569-1571)
+
+Tags: #history/asia/china #time/modern-era/1900s #politics/china #economics/development #asia/china 
+20-12-2021
+Status: #status/unrefined

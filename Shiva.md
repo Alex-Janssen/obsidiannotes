@@ -1,0 +1,16 @@
+# Shiva
+## Traits
+Shiva is seen as both a creator and a destroyer, an agent of change and duality. It is in this way that Shiva is hermaphroditic, both a meditator and a dancer, in solace and has a family. Shiva, like Vishnu, also embodies [[Avatara]].  These were arguably tools to absorb local heroes and gods into more encompassing Shiva worship. Unlike [[Vishnu]], Shiva is portrayed as an outsider to society, not fitting into the caste system and not invited to the great sacrifice by the other gods. Vishnu lived lives as his avatars, whereas Shiva only momentarily embodied them. While being a renouncer, he is also seen to have an ideal marriage with [[Parvati]] (even though none of his children were naturally born). He is seen to have five faces, creation, destruction, preservation, concealment, and revelation, a superior, momentarily ascendant face. He embodies a unity of dualism between formless and formed, inert and active, pure and natural, male and female, unconditioned and conditioned, purusha and prakriti.
+## History
+In the [[Rg Veda]], Shiva was mentioned, albeit as a more side deity. Even during the rise of the Upanishads and orthodox Hinduism, some, like philosopher Manikkavacakar, said that Shiva was lord over the Vedas. Shiva and [[Vishnu]] worship arose during the Gupta age, alongside the rise of [[Buddhism]] and [[Jainism]]. Puranic literature focused much more heavily on Vishnu and Shiva's worship. The Hindu epics, while primarily focusing on Vishnu, did also recognize Shiva's growing influence, and the Svetasvatara Upanishads claimed that Shiva was absolute, claim to his unique power. By the time of temple Hinduism in 700 CE, Vishnu and Shiva worship was mainstream, and temples to both were seen to bring them to one's realm and thus use them against one's foes, as temples were seen as physical houses for gods. Mahendravarman, for instance, built temples to Shiva to embody that, like Shiva was ruler over gods, he was ruler over smaller realms. At the same time, while travelling poets wished for greater intimacy with Vishnu and Shiva, it was known that they were, on some level, unknowable.
+## Worship
+Shiva is often worshipped by lingas, an abstract statue representing Shiva and the wholeness of the universe. While it is sexual in nature, this can be overexaggerated too, and contains both male and female elements. The origin of this is often seen to be from the linga of fire, an endless pillar of fire wrought on [[Vishnu]] and [[Brahma]] for thinking they were superior, a legend seen as the end of Brahma worship. Shiva also was worshipped in [[Temples in Hinduism | temples]]. Worship at temples was more focused on intention rather than effect: incorrectly worshipping unintentionally could be forgiven but purposeful mistakes could not. Worshipping through the senses is supposed to help the worshipper hone in on Shiva's essence.
+
+## References:
+[[A Brief History of Religions in India]]
+[[Banaras, City of Light]]
+Hudson, D Dennis, "How to Worship at Shiva's Temple"
+
+Tags: #religion #culture/asia/india 
+15-1-2023
+Status: #status/draft

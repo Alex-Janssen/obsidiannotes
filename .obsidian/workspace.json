@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "a581cf35704b7c76",
+    "type": "split",
+    "children": [
+      {
+        "id": "c87ba136ff5ac6f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4591d0749e5028b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ming China and Vietnam, Negotiating Borders in Early Modern Asia.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "567a58d2ff0deae9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Logic of Comparative Social Inquiry.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22734ff43ce7a6f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9657c2e961b1f8aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90bf67b417f6b1d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "06dae3707f4ce6d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "217189d99fd64b2d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2763bc81a6dbf5ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cbb785a0a0b0bf0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb707eef8762a931",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Logic of Comparative Social Inquiry.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "bb634b1cb8848d11",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4cb3a4f95f977719",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "567a58d2ff0deae9",
+  "lastOpenFiles": [
+    "Ming China and Vietnam, Negotiating Borders in Early Modern Asia.md",
+    "The Logic of Comparative Social Inquiry.md",
+    "Revisiting Chinese Political Culture, The Historical Politics Approach.md",
+    "China and Globalization, 1895-2015.md",
+    "Toward a Comparative History of Borderlands.md",
+    "Choson Dynasty.md",
+    "Cherishing Men from Afar, Qing Guest Ritual and the Macartney Embassy Of 1793.md",
+    "Dai Viet.md",
+    "Vietnam.md",
+    "Cuba.md",
+    "The Cuban Revolution, Origins, Course, Legacy.md",
+    "China.md",
+    "United States.md",
+    "Russia.md",
+    "Asian Values and the Asian Crisis, A Confucian Humanist Perspective.md",
+    "Towards a Global Culture.md",
+    "Is Chinese Culture Distinctive.md",
+    "Confucianism.md",
+    "Cambridge World History, VI, The Construction of a Global World.md",
+    "Hua Guofeng.md",
+    "People's Republic of China.md",
+    "Soviet Union.md",
+    "Romance of the Three Kingdoms.md",
+    "Religion and Spirituality in Lonely Planet's India.md",
+    "Jihad vs McWorld.md",
+    "El Ingenio.md"
+  ]
+}

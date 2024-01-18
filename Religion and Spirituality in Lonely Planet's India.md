@@ -1,0 +1,20 @@
+# Religion and Spirituality in Lonely Planet's India
+
+### Introduction
+Lonely Planet's [[India]] guidebook both takes on the voice of a holy text and takes traveling as a spiritual rite of passage. Religious studies has traditionally ignored guidebooks and travel literature and its relationship to religion. Western travel literature often takes an [[Orientalism|Orientalist]] tone towards the east, both people and traditions. Guidebooks describe religious traditions as a part of a broader trend of including more cultural and historic information for travelers. Travelers motivated by yoga or other spiritual goals now flock to places like [[Varanasi]]. Lonely Planet is aimed for westerners travelling to the lesser developed world. The guidebook presents facts with no debate or individual, uncertain voice.
+The authors present [[Hinduism]] as mostly uniform, and take their jobs as explaining simple underlying principles from hard texts. People are presented in groups, showing religion as a primarily uniform activity. [[Buddhism]] is considered as a philosophy rather than a religion, and the Buddha's enlightenment is presented as strictly factual, compelling tourists to "follow in his footsteps." Buddhists are put in individual situations, showing a Western, individual bias (philosophy being closer to science). Indian religious are cast as interesting, but parts of interest for Western practice, i.e. [[Yoga]], are cast as philosophy or spirituality and thus are accessible to a Western audience without its connection to Indic religion. Syncretism and Western-influenced traditions are scolded, with the materialist West seen as opposed to the spiritual East.
+
+### The Emblematic Position of Religion
+India is seen as uniquely religious in these guidebooks. In their book about [[California]], religion is seen as not of interest for travellers, mostly important for historic architecture. 47/126 pictures in the India guidebook are religious, 1/52 in California's. Interestingly, tourists' ideas of authenticity lead to an under-emphasis of modernity. Varanasi is presented as mystic and overwhelming: it is India. Contemporary locals are absent or provide services. India is seen as having past glory that is declined now, but is able to be discovered. Ritual is supposed to be conservative and timeless.
+
+### Spirituality
+Travellers should not be religious, but instead be spiritual. Meditation and yoga are welcoming to the western traveller. Even eating, when paired with [[Vegetarianism]] or New Age music, can be spiritual in India. Travellers can "check out" centers and "dip into" traditions. They should seek for truth. Spirituality is opposed to religion, and is suspicious of orthodoxy and organization. A spiritual person is open-minded and tolerant, a traveler, not a tourist. Religion is package tourism, spirituality is individualized. Many traditions have elements of spirituality, but some are more available, rich, or implementable. Hinduism can be taken piecemeal for spiritual use. Serious travellers are advised to go on pilgrimages with religious meaning. New-age culture went from cultural fringe to mainstream, coupled with a decline of [[Christianity]]. Travellers can rebel in their own way.
+Travel is portrayed as a tool for personal transformation, a path following the model of the Hero's Journey. LP India is a "survival kit" for this process, with necessary sacrifices and trials. Ambiguity is not illustrated, the world is filled with sharp contrasts. It is meant to awaken the traveller, to make them feel alive.
+
+
+### Full Citation:
+Siv Ellen Kraft, Religion and Spirituality in Lonely Planet's India, Religion, Volume 37, Issue 3, 2007, Pages 230-242
+Tags: #religion/hinduism #travel #culture/asia/india #critique #source 
+Dates Read: 8-2-2023
+Date Created: 8-2-2023
+Status: #status/unrefined 

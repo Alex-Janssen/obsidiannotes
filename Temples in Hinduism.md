@@ -1,0 +1,14 @@
+# Temples in Hinduism
+## Background
+Temples were a way for royals to gain prestige since the [[Gupta Period]]. It was believed that temples were the physical abode of gods, and thus their residence in temples would give way for benefits in the places they stood. Temples were often constructed at or near tirthas, holy places connected with the divine. Temples in [[Hinduism]] revolved around embodying the whole universe. Architecturally as well, temples meant to represent the sheaths of the body, going inward toward a sort of pure womb, and thus only the pure may enter the inner sanctum of a temple. The Vedas and Upanishads stated that the universe emanated from one point, with existence being a union of self and primordial matter. This idea of emanation is partially embodied by the linga, which emanates countless lesser deities. Hindu temples also express movement, with movement to the shrine, expansion and contraction are implied as well. Often figures will be repeated with increasing size, for instance. Established types of temples were made in both Northern and Southern India whose forms were different but the general concept rarely diverged between individual temples in a region.
+## Worship
+Often statues of religious figures, realistic or abstract in the case of [[Shiva]] lingas, were seen to physically contain gods. Circumambulation was used to venerate these figures, and, as temples embodied the universe, circumambulating a temple meant praising all. Temples are meant to activate all senses, unlike other forms of silent and austere worship. Meeting with a god at a temple embodies a sort of palace ritual for gaining audience with a king. Often placing one's head at another's feet was used to respect gods (or people); the head was the highest valued body part while the feet were the lowest. Gifts are given above the impure navel and with the pure right hand. Any impure substances, like food, are forbidden in the temple, and people cannot enter who were polluted by the death of a loved one. Cattle dung mixed with water is supposedly pure, while other animals are considered impure. Cows represent self-giving and the power of reproductive creation. Both direction and time have profound ritual meanings in Hinduism, thus temples are worshipped at particular times for particular purposes and are almost always built on cardinal directions. Walking counterclockwise represented emancipation, while clockwise represented enjoyment. The north is the abode of the gods in the [[Himalayas]] while the south sees the god of death [[Yama]]. Any of the non-untouchable classes in the [[Caste System]] can receive the same rites, while untouchables need pray outside. 
+
+## References:
+[[India, A Sacred Geography]]
+Hudson, D Dennis, "How to Worship at Shiva's Temple"
+Hardy, Adam, "Hindu Temples and the Emanating Cosmos", 2016
+
+Tags: #culture/asia/india #religion #religion/hinduism #architecture
+23-1-2023
+Status: #status/draft
