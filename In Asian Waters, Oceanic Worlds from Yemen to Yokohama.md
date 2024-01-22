@@ -10,6 +10,10 @@ Spices and marine products were some of the few goods worthy to be transported i
 Amulets are integral to Thai culture and their introduction coincides with Buddhism's influence in Thailand. The [[Chola Empire]], alongside trade, introduced Hindu tradition to SEA, alongside Buddhism with which Hinduism intermixed. Indic symbols change meaning when adapted, i.e. in Angkor or [[Champa]]. The [[Deccan]] (or [[Sri Lanka]]) may have produced icons of [[Avalokiteshvara]] and other Bodhisatvas for much of Thailand. Southern Thailland linked the Andaman with the north. Coastal plains became the foodbasket as well as the market. 
 Amulets among other goods are useful objects of study, as, uniquely (unlike textiles), they preserve remarkably well. By the end of the first millenium the Indian Ocean was well-trafficked and linked Maritime Asia. Indic religion and models of governance were spread too. 
 
+
+## Commentary
+Is the study of the ocean meaningful? This is similar to [[Silk Road]] history, the road is a subject, not an actor. The ocean enables more connectivity, but this still doesn't center the ocean beyond it as a trade route. Does it do anything land transit doesn't?
+
 ### Full Citation:
 Eric Tagliacozzo, In Asian Waters: Oceanic Worlds from Yemen to Yokohama
 
