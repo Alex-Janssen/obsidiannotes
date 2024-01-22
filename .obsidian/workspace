@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mozi.md",
+            "file": "In Asian Waters, Oceanic Worlds from Yemen to Yokohama.md",
             "mode": "source",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "khmer empire",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mozi.md",
+                "file": "In Asian Waters, Oceanic Worlds from Yemen to Yokohama.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +102,15 @@
   },
   "active": "075a61682d61c553",
   "lastOpenFiles": [
-    "Pasted image 20220304124009.png",
-    "Haskell Learning.md",
-    "Coding Trickbook.md",
-    "Asian Modernization.md",
-    "Confucius' Analects.md",
-    "Confucianism.md",
-    "Mozi.md",
-    "Sources.md",
-    "Zhuangzi.md",
-    "Laozi.md"
+    "In Asian Waters, Oceanic Worlds from Yemen to Yokohama.md",
+    "Boundless Winds of Empire, Rhetoric and Ritual in Early Joseon Diplomacy with Ming China.md",
+    "Vietnam, a New History.md",
+    "Revisiting Chinese Political Culture, The Historical Politics Approach.md",
+    "Criticize Lin, Criticize Confucius.md",
+    "Jihad vs McWorld.md",
+    "Xunzi.md",
+    "Cherishing Men from Afar, Qing Guest Ritual and the Macartney Embassy Of 1793.md",
+    "Deng Xiaoping.md",
+    "Asian Modernization.md"
   ]
 }
