@@ -8,6 +8,20 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "tag:#research-area",
+      "color": {
+        "a": 1,
+        "rgb": 2322325
+      }
+    },
+    {
+      "query": "tag:#literature",
+      "color": {
+        "a": 1,
+        "rgb": 7844608
+      }
+    },
+    {
       "query": "tag:#culture/asia/india OR tag:#culture/asia/india",
       "color": {
         "a": 1,
@@ -22,17 +36,17 @@
       }
     },
     {
-      "query": "tag:#history/asia/china OR tag:#culture/asia/china OR tag:#asia/china",
+      "query": "tag:#history/asia/china OR tag:#culture/asia/china OR tag:#asia/china OR tag:#politics/china",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "tag:#literature",
+      "query": "tag:#history/europe/russia OR tag:#europe/russia",
       "color": {
         "a": 1,
-        "rgb": 7844608
+        "rgb": 10217981
       }
     },
     {
@@ -48,13 +62,6 @@
         "a": 1,
         "rgb": 14727762
       }
-    },
-    {
-      "query": "tag:#research-area",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
     }
   ],
   "collapse-display": false,
@@ -67,6 +74,6 @@
   "repelStrength": 12.518072718208,
   "linkStrength": 1,
   "linkDistance": 378,
-  "scale": 0.424517683776412,
-  "close": false
+  "scale": 0.4414668095843602,
+  "close": true
 }

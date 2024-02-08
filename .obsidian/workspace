@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "In Asian Waters, Oceanic Worlds from Yemen to Yokohama.md",
+            "file": "Opium War.md",
             "mode": "source",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "winds",
+                "query": "joseon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "In Asian Waters, Oceanic Worlds from Yemen to Yokohama.md",
+                "file": "Opium War.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +101,15 @@
   },
   "active": "075a61682d61c553",
   "lastOpenFiles": [
-    "In Asian Waters, Oceanic Worlds from Yemen to Yokohama.md",
-    "Imjin War.md",
+    "Opium War.md",
+    "Qianlong Emperor.md",
+    "Qing Dynasty.md",
+    "Ming-Qing Transition.md",
+    "Ming China and Vietnam, Negotiating Borders in Early Modern Asia.md",
     "Boundless Winds of Empire, Rhetoric and Ritual in Early Joseon Diplomacy with Ming China.md",
-    "Plantation Futures.md",
-    "A Russian Teacher in America.md",
-    "Asian Education.md",
-    "Banaras, City of Light.md",
-    "Vietnam, a New History.md",
-    "Revisiting Chinese Political Culture, The Historical Politics Approach.md",
-    "Criticize Lin, Criticize Confucius.md"
+    "Dai Viet.md",
+    "Boundaries, Maps, and Movement, Chinese, Russian, and Mongolian Empires in Early Modern Central Eurasia.md",
+    "The Bukharan Crisis, A Connected History of 18th Century Central Asia.md",
+    "Cherishing Men from Afar, Qing Guest Ritual and the Macartney Embassy Of 1793.md"
   ]
 }

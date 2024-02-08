@@ -1,0 +1,29 @@
+# From ‘motherland’ to ‘daddy state’, A genealogical analysis of the gender undertone in China's nationalist discourses
+
+## Introduction
+An insulted mother state that provokes rage has been replaced in nationalist discourse by a confident masculine representation of nationality. The nation subsumes family as a wider object of belonging to citizens, with metaphors with familial ties underscoring obligations and ties to the wider nation. [[China]] has morphed recently from a mother state to a father, with "little pink" being a moniquer for female nationalists. The fading of Chinese socialism has lead to masculinity being tied to capitalist notions of success. Consumerism is attached to femininity. Before, feminine notions of nationhood riled up masculine nationalism, now, masculine notions of nationhood create a patriarchical dependency on the state for nationalists.
+
+## Methodological and Theoretical Frameworks
+Online ethnography is a treasure-trove of sources on shifting societal trends. Nationalist discourses have a preponderence of historical and political baggage and thus must be interpreted with this in mind. [[Michel Foucault]] shares the idea that power is not centralized in authority in the modern world, instead being embedded in systems. Discourse on state power, even in China, is bottom-up. The machismo present in the millitant active male - passive dependent female dichotomy is not at all unique to Chinese discourse. These labels of masculine and feminine are more dependent on these roles rather than true gender identity: little pink is applied to men and women.
+
+## Gendered Nationalism in a Global Context
+Family dynamics tie generational and gender dynamics. Modern [[Russia]] largely sees the [[Soviet Union]] as feminizing men, and is reasserting the fatherland as a counterbalance to introduce more masculine influence on society. The [[French Revolution]] saw the motherland as defensless, a [[Sigmund Freud|Freudian]] idea of killing the tyranical father (the king) to possess the mother. European colonialism saw the metropole being masculine, with anti-colonialists calling for protection of the motherland. Within the same nation, flexibility on metaphor is used for shifts in situation.
+
+## Historicizing Gender in Chinese Nationalism
+Motherland is the traditional term, but also "land of one's father." Nationalists imported fatherland as well. Saving the mother meant, in a patriarchical society, possessing her, her loss meant a loss of status for the masculine nationalists. [[Sun Yatsen]] saw the Chinese people as needing tuteledge from the state, and thus masculine metaphor was used. During the rule of the [[Chinese Communist Party]], women were desexualized and seen as equal labor participants due to the need for increased production. [[Deng Xiaoping]] lead a reopening of Chinese femininity, largely welcomed, with the [[Cultural Revolution]] deemed to have feminized men by stripping them of their caretaker status. The [[Bombing of the Belgrade Chinese Embassy]] and conflict over the [[Senkaku Island Dispute]] lead to further use of the wounded mother motif. However, to keep stoking nationalism, the female nation must constantly be under threat, must constantly news. The prevelance of [[Hong Kong Cinema]] with masculine Hong Kongers beating foreigners was a highly appealing image of a rarely celebrated Chinese masculinity, partially inspiring a shift toward the masculine model of nationhood.
+
+## New Masculinity and the State in Post-Reform China
+With the [[Tiananmen Square Massacre]] squashing political participation and the [[Cultural Revolution]] dispiriting utopian visions of Chinese socialism, capitalism has filled in China's self identification. Comerade (tongzhi) has moved to boss (laoban) as a general term of address. Success in business was seen as tantamount to masculine role success. A father can cut off or create dependence, seen in references to [[Jack Ma]] on Weibo. Nationalism was galvanized by the [[2008 Beijing Olympics]], which saw anti-Chinese sentiment by pro-[[Tibet]] westerners. Chinese nationalism saw economic growth in "baba" terms, with China's rise overstated and access to the Chinese market a bargaining chip for unruly third parties. Consumerist nationalism has weaponized boycotts against unfriendly countries as a nationalistic weapon, despite being ineffective as an actual tool of coerscion. [[The Philippines]] was seen as dependent on "daddy" China for fruit exports, which would resolve the Nine-Dash Line issue in the [[South China Sea]]. China has to feed and have others dependent on it in order to continue the metaphor, which is seen in the wild. China is praised for being rude and violent, for "doing what he wants," a traditional privilege associated with those with financial means, deepining the nexus of capitalism, gender, and power.
+
+## Our Daughters, Feminizing Nationalists
+The state has begun to weigh in on family values as well. Production is seen as masculine, consumption as feminine. "Little Pink" is a consumerist, successful middle class woman who does not care about politics but supports the current regime. Consumerist femininity neturalizes political dissent.
+
+## Conclusion
+The mother state is a call to action, the father state to obedience. Consumerist nationalism feminizes nationalists, a suffering motherland could galvinze movement against the regime. The idea of a motherland is still prevelant, it's the new use of the father metaphor that is more novel.
+
+### Full Citation:
+Clyde Yicheng Wang, Zifeng Chen, (2023), “From ‘Motherland’ to ‘Daddy State’: A Genealogical Analysis  of the Gender Undertones in China’s Nationalist Discourses,” Nations and Nationalism, 29: 2; pp. 751- 767.
+Tags: #politics/china #gender-analysis #source
+Dates Read: 23-1-2024
+Date Created: 23-1-2024
+Status: #status/unrefined 

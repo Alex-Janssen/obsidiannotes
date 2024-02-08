@@ -16,7 +16,7 @@ Multiple variate analyses can be more interesting, allowing for comparisons betw
 ### Full Citation:
 Adam Przeworski and Henry Teune, The Logic of Comparative Social Inquiry, New York: Wiley Inter-science, 1970: Introduction, Chapters 1 and 2 (pp. 1 – 46)
 
-Tags: #source
+Tags: #culture/asia/china  #source
 Dates Read:
 Date Created: 14-1-2024
 Status: #status/draft

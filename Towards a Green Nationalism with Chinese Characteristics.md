@@ -1,0 +1,19 @@
+# Towards a Green Nationalism with Chinese Characteristics
+
+## Introduction
+China has highly promoted its efforts to protect [[Biodiversity]], including the increasing numbers of Giant Pandas. [[Xi Jinping]] has promoted ecological civilization as equivalent in importance to economic growth, a new turn in party doctrine. Nationalism and environmental protection are becoming more intertwined. This is another way for [[China]] to boost its legitimacy, beyond purely a traditional narrative of increased prosperity. Chinese nationalism is argued to be flexible and reconstructed on external circumstances, Green Nationalism being an attempt to maintain performance in the eyes of the people and world. 
+
+## Environmentalism and Nationalism
+[[Deng Xiaoping|Deng Xiaoping's]] economic booms have transformed China's environment. Pollution and drought are endemic. Much like [[COVID-19]] and its threat to China's performance legitimacy, the enviornmental fight is critical for China's perception, which it contrasts with the democratic model. Green-Nationalism is a nexus of state, NGO, and individual actors and does not necessarily impede green action. 
+In the Chinese context, some say that China's green action shows democracy's inability to act on the climate crisis. Authoritarian environmentalism is a vogue area of study, with some questioning whether its advantages are embeddable in democracy. 
+
+## Transforming Role of Environmentalism in China
+Green nationalism is a rational choice when China's legitimacy is based on performance and environmental issues have harmed growth and prosperity. The government has mixed green narratives with traditional Chinese knowledge and Xi's personality. China's "realism" is the root cause of its green action according to party doctrine. This nexus implies that green action is core to Chinese nationalism. Natural issues are not seperated from sociopolitical ones. Xi is allowing action to spring from the bottom up, clamping down on dissent. The most viewed Chinese Youtuber highlights rural life under the lens of traditional Chinese natural narratives and hints of [[Confucianism]]. NGOs were limited after Xi went to power, especially those that highlighted environmental failings. Popular sustainable business by influencers are neither charities or companies, but something in between, falling in the trend of social entrepreneurship which is environmentally conscious and empowers rural communities, with proceeds from sales going to them. Chinese envirnomental activists submitted papers to an international competition favorable comparing Chinese governmental action and culture to Western systems. Chinese view Westerners like Greta Thunberg as shouting slogans rather than planting trees. They criticize the politicization of science. From the [[2008 Beijing Olympics]], China has recognized how grey skies have harmed its reputation. In the [[Belt and Road Initiative]], green policies take center stage, and China is under many commitments to decrease emissions. They wanted to host a carbon neutral 2022 Olympics to make up for 2008. 
+The complexity of linking environmentalism to nationalism has created the field of green nationalism, crucial in understanding China's shifting identity. Authoritarianism is shown to be complementary to green action, more scientific and culturally rooted. (Sustainability of environment also implies sustainability of governance.) China's discourse opens up a non-democratic, non-western discourse on nationalism and green issues. With China's failure in COVID-19 and soaring youth unemployment (see [[Kong Yiji]]), this is another insight in how China can keep seeing itself as a "winner" nation.
+
+### Full Citation:
+Virginia Arantes, (2024), “Towards a Green Nationalism with Chinese Characteristics?”, Journal of Contemporary China
+Tags: #politics/china #source
+Dates Read:
+Date Created: 23-1-2024
+Status: #status/draft

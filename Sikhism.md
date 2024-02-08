@@ -1,3 +1,5 @@
+# Sikhism
+
 ## Guru Nanak
 Although Guru Nanak is central to Sikh theology, his image does not play an outsized role in visual tradition. Sikhism, in general, is aniconic. Sikhism rejects the Murti image-worship of [[Buddhism]], [[Hinduism]], and [[Jainism]]. Stories of Nanak's life are widespread, much like [[Hadiths]] in [[Islam]]: these are often illustrated. Nanak was illustrated in close proximity to Muslims often. In scripture, Digambara [[Jainism]] is decried, with Nanak shown being lavishly clothed. Nanak reaches out to religious figures of all denominations, a sign of active pluralism. His message was of complete equality between sexes, castes, creed, etc.. (Singh)
 

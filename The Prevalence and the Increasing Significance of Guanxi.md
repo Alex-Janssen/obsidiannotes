@@ -1,0 +1,11 @@
+# The Prevalence and the Increasing Significance of Guanxi
+
+## Notes Reading
+[[Guanxi]] has increased in importance after [[Deng Xiaoping]] reforming the [[Chinese Economy]]. Bureaucratic controls over resources led to ties to government officials being used to gain advantages. Members of the party hierarchy had discretion to allocate resources with some flexibility. Meat, hotel reservations, train tickets were all targets of this familiarity-based small-scale corruption. The shift to a market economy is seen to shift power from politics to direct producers, those with capital. Some theorized that guanxi would become less realized as rational behavior is rewarded: this has not happened. Personal contacts have been highly prized in finding high-quality jobs post-2000. Some see guanxi as static and brittle, others as an adaptive institution. Social network analysis sees weak ties as crucial: more likely to transmit novel information across demographic differences. Guanxi is not directly translatable, but is the building-up of obligations that are, in some way, familial in nature. Guanxi is formulated as a strong tie. Multiple roles can lead to redundent ties between the same two people, "old boy network" style. Early rule under [[Mao Zedong]] meant that competition was low: guanxi only boomed post 1978 with more uncertain instutions due to market growth outpacing instutitional. Post 1992 with [[Deng Xiaoping's Southern Tour]], growth was high and instutions unstable, guanxi's apex, only slowing down with more stable instutions post 2001 [[WTO]] integration. Guanxi maintains economic advantage under uncertainty (stress response). Network influence growth belies guanxi favouritism. Guanxi thrives without merit based tests but with an increase in non-state jobs, and was proven to exist in the pattern predicted.
+
+### Full Citation:
+Yanjie Bian, (2018), “The Prevalence and the Increasing Significance of Guanxi”, The China Quarterly, Vol. 235, pp. 597-621,
+Tags: #culture/asia/china  #source
+Dates Read: 30-1-2024
+Date Created: 30-1-2024
+Status: #status/draft
