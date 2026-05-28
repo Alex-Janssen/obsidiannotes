@@ -1,7 +1,6 @@
 {
-  "accentColor": "",
   "newFileLocation": "current",
-  "spellcheck": true,
+  "spellcheck": false,
   "promptDelete": false,
   "spellcheckDictionary": [
     "Guomindang"
