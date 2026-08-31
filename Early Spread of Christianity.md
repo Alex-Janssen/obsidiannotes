@@ -1,0 +1,7 @@
+## Rome
+Christianity was an inherently immigrant religion in [[Rome]]. In Late Antiquity, the upper classes focused more on lavish contributions to local pride and tradition and turned to classical, elitist culture. Oriental Cults spread among the lower middle class, artisans. In the [[Roman Empire]], in the 200s travel became much more possible, and thus the religious mood turned far more inward as the commoners became citizens of the world. This led to rootlessness and a lack of tie to traditional local patrons, which led to further senses of community. [[Christianity]] and [[Gnosticism]] both promised deep, intimate relationships with God and a sense of global community. Converts were deeply prepared to think of themselves as Christians and to recognize the gap between themselves and non-believers. Christians were well organized, gave back to themselves as an insular group, and provided a sense of community in an individualist age. The spread was quiet, but went from a small trend in 200 to dominant in the early 300s, largely ignored by Rome other than persecutions in 257 and 303. ([[The World of Late Antiquity AD 150-750#The Rise of Christianity, c. 200-300|Source]])
+
+## References:
+Tags: #religion/christianity #history/europe/rome #time/classical-era/late-antiquity
+31-5-2026
+Status: #status/draft

@@ -1,0 +1,10 @@
+# Rise and Fall of Consideration Doctrine
+(73) Performance of a legal duty not subject to an honest dispute is not consideration, but becomes consideration if it differs from its requirement in a way that reflects a bargain. (Normal continuations of legal duty do not constitute consideration, else threats to withhold performance of legal duties would be bargaining). Under this, members of the public cannot treat performance of a public official's legal duty as consideration or think of a bargain for witness testimony. If the duty is doubtful or in honest dispute, consideration is satisfied. 
+(77) Remedies tend to put the promisee at a disadvantage versus voluntary performance - a bonus to encourage voluntary performance can be filed under duress and typically this is not seen as consideration for a new promise.
+Promises of alternate performances do not constitute consideration unless each would have been consideration or one would be consideration and there is a probability apparent to both parties that those performances that would not have been consideration would be eliminated prior to the promisor's choosing.
+(79) Consideration obviates equivalence in values exchanged or mutuality of obligation. Values are often taken as an approximation of private valuations. Parties are seen as better able to evaluate the circumstances of various transactions. Typically, and especially in the case of difficult valuations, courts do not inquire into the adequacy of consideration. Gross inadequacy can call into question the capacity of parties or fraud, but except in cases of no bargain, unwise contracts are enforceable. Disparity in value can point to the possibility that no bargaining occurred. Gross inadequacy is a marker of fraud, justifying the denial of specific performance. Unequal bargains can fall under usury.
+
+## References:
+Tags: #law/contracts
+24-8-2026
+Status: #status/draft

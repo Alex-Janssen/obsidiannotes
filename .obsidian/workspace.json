@@ -4,65 +4,207 @@
     "type": "split",
     "children": [
       {
-        "id": "9f51725d424b8a5b",
+        "id": "b8ac880c2e597fa4",
         "type": "tabs",
         "children": [
           {
-            "id": "384194307ba4caee",
+            "id": "5289bd4b948eefd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Real Politics of the Horn of Africa.md",
+                "file": "Antecedent Benefit.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Real Politics of the Horn of Africa"
+              "title": "Antecedent Benefit"
             }
           },
           {
-            "id": "a867006f1bee0604",
+            "id": "1e044d402ecc2f3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Tartar Steppe.md",
+                "file": "Connecticut v. Doehr.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Tartar Steppe"
+              "title": "Connecticut v. Doehr"
             }
           },
           {
-            "id": "c48eaad69c2d983a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.12.7"
-            }
-          },
-          {
-            "id": "c3165054c9491d96",
+            "id": "03a64d96a78ad77a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Peregrine.md",
+                "file": "Connecticut v. Doehr.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Peregrine"
+              "title": "Connecticut v. Doehr"
+            }
+          },
+          {
+            "id": "033492267bafb176",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fuentes v. Shevin.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Fuentes v. Shevin"
+            }
+          },
+          {
+            "id": "4c58c364131917dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Detriment in Reliance.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Detriment in Reliance"
+            }
+          },
+          {
+            "id": "a3d12caa8f9c7a3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rise and Fall of Consideration Doctrine.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Rise and Fall of Consideration Doctrine"
+            }
+          },
+          {
+            "id": "e46982bb95411dc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Batsakis v. Demotsis.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Batsakis v. Demotsis"
+            }
+          },
+          {
+            "id": "86968308be67dfab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mills v. Wyman.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Mills v. Wyman"
+            }
+          },
+          {
+            "id": "713631cb30bb589f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Levine v. Blumenthal.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Levine v. Blumenthal"
+            }
+          },
+          {
+            "id": "96727a99cfbe4c86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alaska Packer’s Association v. Domenico.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Alaska Packer’s Association v. Domenico"
+            }
+          },
+          {
+            "id": "c67343f74f5a6475",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hamdi v. Rumsfeld.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Hamdi v. Rumsfeld"
+            }
+          },
+          {
+            "id": "664cb56ac083641c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Queen v. Dudley & Stephens.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "The Queen v. Dudley & Stephens"
+            }
+          },
+          {
+            "id": "bba18c69689a0fac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "United States v. Blarek.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "United States v. Blarek"
+            }
+          },
+          {
+            "id": "1962c8cddc0e9912",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Van Harken v. City of Chicago.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Van Harken v. City of Chicago"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -82,7 +224,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -94,7 +238,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "v.",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +259,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -193,39 +338,39 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "c3165054c9491d96",
+  "active": "1962c8cddc0e9912",
   "lastOpenFiles": [
-    "The Peregrine.md",
-    "The Tartar Steppe.md",
-    "The Real Politics of the Horn of Africa.md",
-    "Без названия",
-    "Foreign Relations of the PRC.md",
-    "The Bukharan Crisis, A Connected History of 18th Century Central Asia.md",
-    "Soviet Union.md",
-    "A Brief History of Religions in India.md",
-    "Excellent Sheep.md",
-    "Untitled 4.base",
-    "Elite Education in the United States.md",
-    "Hu Yaobang.md",
-    "El Ingenio.md",
-    "Is Chinese Culture Distinctive.md",
-    "Kong Yiji.md",
-    "Untitled.base",
-    "United States.md",
-    "Untitled 2.base",
-    "Untitled 3.base",
-    "The Defining Decade.md",
-    "Gnosticism.md",
-    "Tertiary Education in the United States.md",
-    "Untitled 1.base",
-    "Deng Xiaoping.md",
-    "Deng Xiaoping and the Transformation of China.md",
-    "Evaluating NATO Enlargement.md",
-    "The Logic of Comparative Social Inquiry.md",
+    "Procedure.md",
+    "Due Process.md",
+    "Fuentes v. Shevin.md",
+    "From Third World to First, The Singapore Story 1965-2000.md",
+    "Templates/Case.md",
+    "Anti-Rightist Campaign.md",
+    "Towards a Global Culture.md",
+    "Towards a Green Nationalism with Chinese Characteristics.md",
+    "Connecticut v. Doehr.md",
+    "The Queen v. Dudley & Stephens.md",
+    "Theories of Punishment.md",
+    "United States v. Blarek.md",
+    "Hamdi v. Rumsfeld.md",
+    "Angel v. Murray.md",
+    "Wood v. Lucy, Lady Duff-Gordon.md",
+    "Van Harken v. City of Chicago.md",
+    "Habeus Corpus.md",
+    "Consideration.md",
+    "Levine v. Blumenthal.md",
+    "Alaska Packer’s Association v. Domenico.md",
+    "Batsakis v. Demotsis.md",
+    "Kirksey v. Kirksey.md",
+    "Mills v. Wyman.md",
     "Ming China and Vietnam, Negotiating Borders in Early Modern Asia.md",
-    "Revisiting Chinese Political Culture, The Historical Politics Approach.md",
-    "China and Globalization, 1895-2015.md",
-    "Toward a Comparative History of Borderlands.md",
-    "Choson Dynasty.md"
+    "Ricketts v. Scothorn.md",
+    "Rise and Fall of Consideration Doctrine.md",
+    "Untitled 4.base",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Без названия"
   ]
 }
